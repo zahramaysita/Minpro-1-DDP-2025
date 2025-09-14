@@ -15,7 +15,7 @@ Terdapat 5 pilihan menu yaitu :
 3. Update Produk
 4. Hapus Produk
 5. Total Pengeluaran\
-Input Pilihan Menu : User diminta memasukkan angka 1–5 untuk memilih menu. Jika input tidak valid maka program akan menampilkan output “Harus memilih 1–5”
+Input Pilihan Menu : pengguna diminta memasukkan angka 1–5 untuk memilih menu. Jika input tidak valid maka program akan menampilkan output “Harus memilih 1–5”
 
 **1. Lihat Produk**
 
